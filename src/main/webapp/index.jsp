@@ -7,8 +7,12 @@
 <title>REDES</title>
 </head>
 <body>
-	<a href="RedesControlador?opcion=cables"> CABLES</a>
+
 	<table border="1">
+		<tr>
+			<td><a href="RedesControlador?opcion=cables"> CABLES</a></td>
+		</tr>
+
   		<tr>
     		<td><a href="RedesControlador?opcion=adaptadores"> ADAPTADORES</a></td>
   		</tr>
